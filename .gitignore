@@ -1,0 +1,15 @@
+# Dossiers à ignorer
+exports/
+__pycache__/
+.ipynb_checkpoints/
+
+# Fichiers de données et exports
+*.db
+*.csv
+*.pptm
+
+# Fichiers temporaires de PowerPoint
+*.pptmolist.db
+exports/
+*.pptm
+~.pptm
