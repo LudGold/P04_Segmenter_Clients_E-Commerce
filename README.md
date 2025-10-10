@@ -52,7 +52,7 @@ L’analyse RFM est un **standard marketing** simple et efficace pour qualifier 
 
 ---
 
-## 🏁 5. Modèle Final Retenu
+## 5. Modèle Final Retenu
 
 ### **K-Means (k=4)**
 Ce modèle a produit les **segments les plus équilibrés, stables et interprétables** :
