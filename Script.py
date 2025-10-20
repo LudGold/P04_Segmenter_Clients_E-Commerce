@@ -1,4 +1,3 @@
-# olist_dashboard_cte.py
 import sqlite3
 import pandas as pd
 from pathlib import Path
